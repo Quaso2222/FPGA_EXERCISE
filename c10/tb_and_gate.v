@@ -1,0 +1,27 @@
+`timescale 1ns/1ns
+module tb_and_gate();
+
+reg a;
+reg b;
+
+wire y;
+
+initial begin
+    a=1'b0;
+    b=1'b0;
+   #100
+    a=1'b0;
+    b=1'b1;
+    #100
+    a=1'b1;
+    b=1'b0;
+    #100
+    a=1'b1;
+    b=1'b1;
+end
+and_gate and_gate_inst(
+    .a(a),
+    .b(b),
+    .y(y)
+);
+endmodule
