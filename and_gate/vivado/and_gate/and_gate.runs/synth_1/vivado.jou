@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Fri Aug 28 20:48:56 2026
+# Process ID         : 29064
+# Current directory  : D:/FPGA/FPGA_EXERCISE/and_gate/vivado/and_gate/and_gate.runs/synth_1
+# Command line       : vivado.exe -log and_gate.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source and_gate.tcl
+# Log file           : D:/FPGA/FPGA_EXERCISE/and_gate/vivado/and_gate/and_gate.runs/synth_1/and_gate.vds
+# Journal file       : D:/FPGA/FPGA_EXERCISE/and_gate/vivado/and_gate/and_gate.runs/synth_1\vivado.jou
+# Running On         : mini
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 9 5950X 16-Core Processor            
+# CPU Frequency      : 4000 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 32
+# Host memory        : 68600 MB
+# Swap memory        : 4294 MB
+# Total Virtual      : 72895 MB
+# Available Virtual  : 35107 MB
+#-----------------------------------------------------------
+source and_gate.tcl -notrace
