@@ -1,0 +1,15 @@
+D:/example/or_gate/or_gate.v {1 {vlog -work work -vopt -stats=none D:/example/or_gate/or_gate.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module or_gate
+
+Top level modules:
+	or_gate
+
+} {} {}} D:/example/or_gate/tb_or_gate.v {1 {vlog -work work -vopt -stats=none D:/example/or_gate/tb_or_gate.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_or_gate
+
+Top level modules:
+	tb_or_gate
+
+} {} {}}

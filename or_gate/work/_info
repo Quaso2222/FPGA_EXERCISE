@@ -1,0 +1,66 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/example/or_gate
+T_opt
+!s110 1788033957
+VhWk_PaH`zOn[e?PdCOWjW2
+04 10 4 work tb_or_gate fast 0
+=1-9c2f9dbbcb77-6a933ba4-2d8-4aa4
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vor_gate
+Z2 !s110 1788033890
+!i10b 1
+!s100 b]b1M[4]LmKR2GYabBQ`S1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IInbkZ5<KD`:?359LCEFi:0
+R0
+w1788021443
+8D:/example/or_gate/or_gate.v
+FD:/example/or_gate/or_gate.v
+!i122 3
+L0 1 6
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1788033890.000000
+!s107 D:/example/or_gate/or_gate.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/example/or_gate/or_gate.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb_or_gate
+R2
+!i10b 1
+!s100 T0Daf>6DJh`Pz9lNh3aW:3
+R3
+I>DKeO`oFN;icoPSFnh0c03
+R0
+w1788033879
+8D:/example/or_gate/tb_or_gate.v
+FD:/example/or_gate/tb_or_gate.v
+!i122 4
+L0 3 26
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/example/or_gate/tb_or_gate.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/example/or_gate/tb_or_gate.v|
+!i113 0
+R7
+R1
